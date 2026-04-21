@@ -2,13 +2,15 @@
 
 Projeto desenvolvido para a disciplina Fundamentos de No-Code e Low-Code, utilizando a plataforma Bubble.
 
-🚀 Acesso ao Projeto
+Video Pitch 
+https://www.youtube.com/watch?v=EYZ9QEGmXz4
+Assista o vídeo para ver a demonstração e use o PDF para acompanhar os detalhes do desenvolvimento do projeto.
 
+🚀 Acesso ao Projeto
 🔗 Link da aplicação:
 https://trabalho-53216.bubbleapps.io/version-test/login
 
 👤 Usuários de Teste
-
 Use os acessos abaixo para testar o sistema:
 
 Nome	E-mail	Senha
@@ -48,6 +50,7 @@ User → usuários do sistema
 Task → tarefas
 Comment → comentários
 Notification → notificações
+
 📄 Páginas do Sistema
 Dashboard (Index) → visão geral das tarefas
 Login → autenticação
@@ -55,10 +58,12 @@ Cadastro → criação de conta
 Tarefa → detalhes e comentários
 Reset Password → redefinição de senha
 404 → página de erro
+
+
 🛠️ Tecnologias Utilizadas
 Bubble (No-Code Platform)
 Banco de dados interno
 Workflows visuais
-📌 Observações
 
+📌 Observações
 Este projeto demonstra como ferramentas No-Code podem ser utilizadas para desenvolver aplicações funcionais de forma rápida e eficiente, sem a necessidade de programação tradicional.
